@@ -1,0 +1,109 @@
+{
+	"info": {
+		"_postman_id": "519860e4-37f2-4481-a5aa-ef5369d3dfd0",
+		"name": "ESPG",
+		"description": "API for coordinate system transormation.\nSee:\nhttps://github.com/maptiler/epsg.io - API Reference\nhttps://epsg.io/ - \nhttps://epsg.io/3347 - NAD83 / Statistics Canada Lambert. Coordinate system used with Census Data\nhttps://epsg.io/3857 - WGS 84 / Pseudo-Mercator -- Spherical Mercator, Google Maps, OpenStreetMap, Bing, ArcGIS, ESRI\nhttps://epsg.io/4326 - WGS 84 -- WGS84 - World Geodetic System 1984, used in GPS\nhttps://www150.statcan.gc.ca/n1/en/catalogue/92-171-X - Federal Electoral District Boundary Files\n\nhttps://en.wikipedia.org/wiki/Geography_Markup_Language\nhttps://en.wikipedia.org/wiki/EPSG_Geodetic_Parameter_Dataset",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Convert 3347 toc 3857 (Google Maps)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://epsg.io/trans?s_srs=3347&t_srs=3857&x=7225535.21428449&y=931053.348572564",
+					"protocol": "http",
+					"host": [
+						"epsg",
+						"io"
+					],
+					"path": [
+						"trans"
+					],
+					"query": [
+						{
+							"key": "s_srs",
+							"value": "3347"
+						},
+						{
+							"key": "t_srs",
+							"value": "3857"
+						},
+						{
+							"key": "x",
+							"value": "7225535.21428449"
+						},
+						{
+							"key": "y",
+							"value": "931053.348572564"
+						}
+					]
+				},
+				"description": "Convert coordinates used in Census Data to Long/Lat coordinates used in Google Maps"
+			},
+			"response": []
+		},
+		{
+			"name": "Convert 3347 toc 4326 (GPS)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://epsg.io/trans?s_srs=3347&t_srs=4326&x=7225535.21428449&y=931053.348572564",
+					"protocol": "http",
+					"host": [
+						"epsg",
+						"io"
+					],
+					"path": [
+						"trans"
+					],
+					"query": [
+						{
+							"key": "s_srs",
+							"value": "3347"
+						},
+						{
+							"key": "t_srs",
+							"value": "4326"
+						},
+						{
+							"key": "x",
+							"value": "7225535.21428449"
+						},
+						{
+							"key": "y",
+							"value": "931053.348572564"
+						}
+					]
+				},
+				"description": "Convert coordinates used in Census Data to Long/Lat GPS coordinates"
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "437cc27f-ead6-4565-ba65-a2113d6bfdeb",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "4eb95689-abf3-48d4-afa6-17c37666dd45",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
