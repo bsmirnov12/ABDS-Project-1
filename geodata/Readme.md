@@ -4,6 +4,8 @@
 
 To determine central coordinates of Federal Electoral Districts (FED) suitable for quering Google Maps APIs.
 
+The result is saved in geodata.csv - this is the only file needed for the project
+
 ## Data Sources
 
 ### Statistics Canada
@@ -20,7 +22,7 @@ The boundary file contains following information:
 * Province name in English and French (in one string)
 * A list of coordinates that defines a bound around an FED
 
-### EPSG registry
+### ESPG registry
 
 The registry of different coordinate systems.
 This registry was accessed via 3rd party website [espg.io](https://epsg.io/) which provides coordinate system lookup and conversion service.
@@ -32,6 +34,7 @@ ESPG code used for WGS 84 World Geodetic System 1984, used in GPS [4326](https:/
 
 
 ### Additional reading
+
 https://en.wikipedia.org/wiki/Geography_Markup_Language
 
 https://en.wikipedia.org/wiki/EPSG_Geodetic_Parameter_Dataset
@@ -42,3 +45,10 @@ https://en.wikipedia.org/wiki/EPSG_Geodetic_Parameter_Dataset
 * lfed000a16g_e.xsd - XML-schema for validation of lfed000a16g_e.gml
 * 92-160-g2016002-eng.pdf, federal_electoral_district.html - documentation
 * ESPG.postman_collection.json - collection file for Postman used for testing espg.io API queries.
+
+### Project files
+
+* import_geodata.py - reads lfed000a16g_e.gml, calculates central points from boundaries coordinates, writes lfed000a16g_e.csv
+* lfed000a16g_e.csv - contains information abount FEDs (id, name, province, central coordinate in NAD83)
+* convert_coordinates.py - reads lfed000a16g_e.csv, converts central coordinates from NAD83 to GPS coordinates, writes geodata.csv
+* geodata.csv - data set with information abous FEDs (id, name, province, central coordinates) suitable for use with Google Maps API
