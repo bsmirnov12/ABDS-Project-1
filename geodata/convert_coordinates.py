@@ -32,8 +32,8 @@ with open(dst_fname, 'w', newline='', encoding='utf-8') as dst_file:
     header = next(src_csv) # skip source header
 
     # Write header
-    # Latitude is y coordinate (vertical, N), Longtitude is x coordinate (horizontal, E)
-    dst_csv.writerow(['FED Id', 'FED Name', 'Province Id', 'Privince Name', 'Latitude', 'Longtitude'])
+    # Latitude is y coordinate (vertical, N), Longitude is x coordinate (horizontal, E)
+    dst_csv.writerow(['FED Id', 'FED Name', 'Province Id', 'Privince Name', 'Latitude', 'Longitude'])
 
     for row in src_csv:
 
