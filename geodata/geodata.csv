@@ -1,0 +1,339 @@
+FED Id,FED Name,Province Id,Privince Name,Latitude,Longtitude
+11001,Cardigan,11,Prince Edward Island,46.25141338,-62.65243543
+11002,Charlottetown,11,Prince Edward Island,46.26798732,-63.14387040
+24056,Pierrefonds--Dollard,24,Quebec,45.49192544,-73.85540607
+24057,Pontiac,24,Quebec,46.76013897,-76.59450310
+24058,Portneuf--Jacques-Cartier,24,Quebec,47.13700443,-71.83650586
+24004,Alfred-Pellan,24,Quebec,45.64430520,-73.65393571
+24005,Argenteuil--La Petite-Nation,24,Quebec,45.79637810,-74.98318593
+24006,Avignon--La Mitis--Matane--Matapédia,24,Quebec,48.47027070,-67.19033044
+24007,Beauce,24,Quebec,46.15953580,-70.76188516
+24009,Bécancour--Nicolet--Saurel,24,Quebec,46.18241861,-72.53121171
+24010,Bellechasse--Les Etchemins--Lévis,24,Quebec,46.58870013,-70.66458004
+24011,Beloeil--Chambly,24,Quebec,45.49577718,-73.20970758
+24012,Berthier--Maskinongé,24,Quebec,46.33613940,-73.14135408
+24013,Thérèse-De Blainville,24,Quebec,45.67498147,-73.83617097
+24014,Pierre-Boucher--Les Patriotes--Verchères,24,Quebec,45.75159937,-73.24769377
+24024,Dorval--Lachine--LaSalle,24,Quebec,45.44319479,-73.70899569
+24028,Hochelaga,24,Quebec,45.56320453,-73.54702999
+24015,Bourassa,24,Quebec,45.59934700,-73.63205112
+24008,Beauport--Limoilou,24,Quebec,46.85711551,-71.20326519
+24016,Brome--Missisquoi,24,Quebec,45.21054932,-72.67467620
+24018,Rimouski-Neigette--Témiscouata--Les Basques,24,Quebec,47.90732057,-68.76942790
+24019,Charlesbourg--Haute-Saint-Charles,24,Quebec,46.90810863,-71.34083766
+24020,Beauport--Côte-de-Beaupré--Île d’Orléans--Charlevoix,24,Quebec,47.62457937,-71.00328077
+24021,Châteauguay--Lacolle,24,Quebec,45.20623176,-73.61811858
+24022,Chicoutimi--Le Fjord,24,Quebec,48.16875578,-70.61563810
+24023,Compton--Stanstead,24,Quebec,45.35332638,-71.62862973
+24025,Drummond,24,Quebec,45.85753051,-72.46843064
+24026,Gaspésie--Les Îles-de-la-Madeleine,24,Quebec,48.68999443,-65.62875091
+24027,Gatineau,24,Quebec,45.51700315,-75.62864416
+10001,Avalon,10,Newfoundland and Labrador,47.18737602,-53.39094359
+10002,Bonavista--Burin--Trinity,10,Newfoundland and Labrador,48.12440450,-54.21021499
+10003,Coast of Bays--Central--Notre Dame,10,Newfoundland and Labrador,48.93000186,-55.66732403
+10004,Labrador,10,Newfoundland and Labrador,54.89083405,-60.63058146
+10005,Long Range Mountains,10,Newfoundland and Labrador,49.44705082,-56.83166772
+10006,St. John's East,10,Newfoundland and Labrador,47.70761683,-52.82119147
+10007,St. John's South--Mount Pearl,10,Newfoundland and Labrador,47.44194364,-52.80119494
+11003,Egmont,11,Prince Edward Island,46.70073442,-63.97350870
+11004,Malpeque,11,Prince Edward Island,46.29889526,-63.45739909
+12001,Cape Breton--Canso,12,Nova Scotia,45.74224179,-60.87308391
+12002,Central Nova,12,Nova Scotia,45.36508142,-62.56991218
+12003,Cumberland--Colchester,12,Nova Scotia,45.44491307,-63.77118943
+12004,Dartmouth--Cole Harbour,12,Nova Scotia,44.68248852,-63.55061465
+12005,Halifax,12,Nova Scotia,44.01496140,-59.97742344
+12006,Halifax West,12,Nova Scotia,44.73103720,-63.74098142
+12007,Kings--Hants,12,Nova Scotia,45.11005301,-64.08318310
+12008,Sackville--Preston--Chezzetcook,12,Nova Scotia,44.73645915,-63.47546137
+12009,South Shore--St. Margarets,12,Nova Scotia,43.99272544,-64.76589740
+12010,Sydney--Victoria,12,Nova Scotia,46.53259466,-60.44925134
+12011,West Nova,12,Nova Scotia,44.30969643,-65.64032673
+13001,Acadie--Bathurst,13,New Brunswick,47.69877752,-65.39775309
+13002,Beauséjour,13,New Brunswick,46.18702974,-64.60666590
+13003,Fredericton,13,New Brunswick,45.98969448,-66.38167692
+13004,Fundy Royal,13,New Brunswick,45.71206432,-65.38798980
+13005,Madawaska--Restigouche,13,New Brunswick,47.62719341,-67.42015622
+13006,Miramichi--Grand Lake,13,New Brunswick,46.88487416,-65.97135254
+13007,Moncton--Riverview--Dieppe,13,New Brunswick,46.10954919,-64.81105007
+13008,New Brunswick Southwest,13,New Brunswick,45.40777913,-66.66809637
+13009,Saint John--Rothesay,13,New Brunswick,45.25237151,-66.03811961
+13010,Tobique--Mactaquac,13,New Brunswick,46.46741083,-67.23075603
+24001,Abitibi--Baie-James--Nunavik--Eeyou,24,Quebec,54.25498631,-72.84226419
+24002,Abitibi--Témiscamingue,24,Quebec,47.75498452,-78.58764161
+24003,Ahuntsic-Cartierville,24,Quebec,45.53709192,-73.69081823
+24017,Brossard--Saint-Lambert,24,Quebec,45.46213976,-73.45592865
+24049,Montarville,24,Quebec,45.54309128,-73.32110250
+24052,Mount Royal,24,Quebec,45.48994645,-73.65512639
+24053,Notre-Dame-de-Grâce--Westmount,24,Quebec,45.47631324,-73.62225811
+24054,Outremont,24,Quebec,45.50925089,-73.61063032
+24055,Papineau,24,Quebec,45.54899405,-73.61731227
+24059,Québec,24,Quebec,46.81171367,-71.26868569
+24060,Repentigny,24,Quebec,45.80947193,-73.40791373
+24061,Richmond--Arthabaska,24,Quebec,45.82904376,-71.91057202
+24062,Rivière-des-Mille-Îles,24,Quebec,45.60252955,-73.89928970
+24065,Marc-Aurèle-Fortin,24,Quebec,45.60553410,-73.76963320
+24066,Saint-Hyacinthe--Bagot,24,Quebec,45.64054215,-72.74802417
+24067,Saint-Jean,24,Quebec,45.20562437,-73.26270684
+24068,Saint-Laurent,24,Quebec,45.49856881,-73.71859688
+24063,Rivière-du-Nord,24,Quebec,45.85892216,-73.95836922
+24064,Rosemont--La Petite-Patrie,24,Quebec,45.54267127,-73.58696472
+24069,Saint-Léonard--Saint-Michel,24,Quebec,45.58095302,-73.60227465
+24070,Saint-Maurice--Champlain,24,Quebec,47.73886824,-73.78000329
+24071,Salaberry--Suroît,24,Quebec,45.13796066,-74.05040448
+24072,Shefford,24,Quebec,45.44049280,-72.64169105
+24029,Honoré-Mercier,24,Quebec,45.65199874,-73.56645865
+24030,Hull--Aylmer,24,Quebec,45.43111165,-75.79997309
+24031,Joliette,24,Quebec,46.66583868,-73.93130730
+24032,Jonquière,24,Quebec,50.28904613,-70.53051831
+24033,La Pointe-de-l'Île,24,Quebec,45.64505396,-73.51679009
+24034,La Prairie,24,Quebec,45.37269013,-73.57660674
+24035,Lac-Saint-Jean,24,Quebec,50.16930803,-72.16093540
+24036,Lac-Saint-Louis,24,Quebec,45.44330077,-73.87850832
+24037,LaSalle--Émard--Verdun,24,Quebec,45.43912238,-73.58046988
+24038,Laurentides--Labelle,24,Quebec,46.78730880,-74.95193219
+24039,Laurier--Sainte-Marie,24,Quebec,45.52397455,-73.56827226
+24040,Laval--Les Îles,24,Quebec,45.53928028,-73.81205671
+24041,Longueuil--Charles-LeMoyne,24,Quebec,45.48474748,-73.44768131
+24042,Lévis--Lotbinière,24,Quebec,46.56694966,-71.51733700
+24043,Longueuil--Saint-Hubert,24,Quebec,45.53662112,-73.45023662
+24044,Louis-Hébert,24,Quebec,46.77869558,-71.36193480
+24045,Louis-Saint-Laurent,24,Quebec,46.84570263,-71.40628429
+24046,Manicouagan,24,Quebec,50.68836858,-65.23036642
+24047,Mégantic--L'Érable,24,Quebec,45.82989827,-71.28618217
+24048,Mirabel,24,Quebec,45.64763270,-74.02746758
+24050,Montcalm,24,Quebec,45.90751221,-73.71052856
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,24,Quebec,47.34791120,-69.85829447
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,24,Quebec,45.49179403,-73.55344260
+35001,Ajax,35,Ontario,43.87008187,-79.02911208
+35003,Aurora--Oak Ridges--Richmond Hill,35,Ontario,43.94855987,-79.43417894
+35004,Barrie--Innisfil,35,Ontario,44.29532603,-79.62627833
+35010,Brampton North,35,Ontario,43.73821377,-79.77854328
+35005,Barrie--Springwater--Oro-Medonte,35,Ontario,44.51314605,-79.71745125
+35006,Bay of Quinte,35,Ontario,44.02703026,-77.15908815
+35007,Beaches--East York,35,Ontario,43.68394025,-79.30671111
+35008,Brampton Centre,35,Ontario,43.69991971,-79.73099539
+35009,Brampton East,35,Ontario,43.78019492,-79.69899863
+35011,Brampton South,35,Ontario,43.65124588,-79.76616709
+35020,Don Valley North,35,Ontario,43.78847244,-79.35719123
+35024,Eglinton--Lawrence,35,Ontario,43.72246767,-79.43361363
+35046,Kitchener--Conestoga,35,Ontario,43.49233108,-80.58577350
+35028,Etobicoke--Lakeshore,35,Ontario,43.61209549,-79.51805652
+35029,Etobicoke North,35,Ontario,43.71571695,-79.58531102
+35030,Flamborough--Glanbrook,35,Ontario,43.26737108,-79.94096131
+35031,Glengarry--Prescott--Russell,35,Ontario,45.40589811,-74.97020900
+35033,Haldimand--Norfolk,35,Ontario,42.77734963,-80.04101007
+35034,Haliburton--Kawartha Lakes--Brock,35,Ontario,44.82219917,-78.59661737
+35035,Hamilton Centre,35,Ontario,43.27715472,-79.86062694
+35036,Hamilton East--Stoney Creek,35,Ontario,43.23831393,-79.71857558
+35037,Hamilton Mountain,35,Ontario,43.21799419,-79.86086197
+35038,Hamilton West--Ancaster--Dundas,35,Ontario,43.23866670,-79.96901786
+35039,Hastings--Lennox and Addington,35,Ontario,44.73351794,-77.32447205
+35040,Huron--Bruce,35,Ontario,43.86305135,-81.37887591
+35041,Kanata--Carleton,35,Ontario,45.34674909,-76.09337258
+35042,Kenora,35,Ontario,52.93258087,-90.90861495
+35043,King--Vaughan,35,Ontario,43.93697730,-79.61195011
+35012,Brampton West,35,Ontario,43.67826682,-79.82903499
+35013,Brantford--Brant,35,Ontario,43.12263061,-80.22906961
+35014,Bruce--Grey--Owen Sound,35,Ontario,44.67465277,-81.04595250
+35015,Burlington,35,Ontario,43.34078916,-79.81586700
+35016,Cambridge,35,Ontario,43.32087606,-80.35373661
+35017,Chatham-Kent--Leamington,35,Ontario,42.14927434,-82.31734568
+35018,Davenport,35,Ontario,43.66921363,-79.44350605
+35019,Don Valley East,35,Ontario,43.73663536,-79.33352648
+35021,Don Valley West,35,Ontario,43.72829431,-79.37141922
+35022,Dufferin--Caledon,35,Ontario,43.99876107,-80.06439028
+35023,Durham,35,Ontario,44.05827974,-78.85747120
+35025,Elgin--Middlesex--London,35,Ontario,42.77228250,-81.23008415
+35027,Etobicoke Centre,35,Ontario,43.66409097,-79.55465791
+35026,Essex,35,Ontario,42.12266972,-82.87695050
+35045,Kitchener Centre,35,Ontario,43.44865687,-80.46724639
+24073,Sherbrooke,24,Quebec,45.40245847,-71.89653917
+24074,Vaudreuil--Soulanges,24,Quebec,45.40687858,-74.12364001
+24075,Terrebonne,24,Quebec,45.72711563,-73.67121386
+24078,Vimy,24,Quebec,45.56268145,-73.73825458
+35002,Algoma--Manitoulin--Kapuskasing,35,Ontario,47.85962955,-83.73961740
+35032,Guelph,35,Ontario,43.53503148,-80.23567933
+35044,Kingston and the Islands,35,Ontario,44.18639776,-76.44202907
+24076,Trois-Rivières,24,Quebec,46.35740755,-72.62226266
+35073,Oakville North--Burlington,35,Ontario,43.44397676,-79.76313268
+35074,Oshawa,35,Ontario,43.88798228,-78.84600971
+35078,Ottawa--Vanier,35,Ontario,45.44944224,-75.63764803
+35080,Oxford,35,Ontario,43.09995360,-80.77673135
+35081,Parkdale--High Park,35,Ontario,43.64971626,-79.46715229
+35082,Parry Sound--Muskoka,35,Ontario,45.52904955,-79.94571143
+35083,Perth--Wellington,35,Ontario,43.62614006,-80.92183588
+35084,Peterborough--Kawartha,35,Ontario,44.58732591,-78.19813547
+35085,Pickering--Uxbridge,35,Ontario,44.03457541,-79.17826963
+35086,Renfrew--Nipissing--Pembroke,35,Ontario,45.65701333,-77.50768300
+35088,Carleton,35,Ontario,45.17296005,-75.70517848
+35092,Sault Ste. Marie,35,Ontario,46.93598648,-84.48756545
+35097,Scarborough--Rouge Park,35,Ontario,43.80338109,-79.17467869
+59028,Skeena--Bulkley Valley,59,British Columbia,56.59455959,-130.37044141
+59029,South Okanagan--West Kootenay,59,British Columbia,49.56264584,-118.40760762
+59013,Kamloops--Thompson--Cariboo,59,British Columbia,51.47654417,-120.47093817
+59014,Kelowna--Lake Country,59,British Columbia,49.95172888,-119.29724471
+59015,Kootenay--Columbia,59,British Columbia,50.56937083,-116.69843928
+35047,Kitchener South--Hespeler,35,Ontario,43.41585906,-80.39968414
+35048,Lambton--Kent--Middlesex,35,Ontario,42.81013646,-81.98206399
+35049,Lanark--Frontenac--Kingston,35,Ontario,44.85362427,-76.54919178
+35050,Leeds--Grenville--Thousand Islands and Rideau Lakes,35,Ontario,44.71429135,-75.95889718
+35051,London--Fanshawe,35,Ontario,42.99285306,-81.17724032
+35052,London North Centre,35,Ontario,43.01527768,-81.25822437
+35053,London West,35,Ontario,42.97920636,-81.29929589
+35054,Markham--Stouffville,35,Ontario,43.97727294,-79.29072630
+35055,Markham--Thornhill,35,Ontario,43.83370897,-79.31869489
+35056,Markham--Unionville,35,Ontario,43.89597777,-79.33006052
+35057,Milton,35,Ontario,43.48836683,-79.95806990
+35059,Mississauga East--Cooksville,35,Ontario,43.60225340,-79.60423311
+35062,Mississauga--Malton,35,Ontario,43.66108732,-79.66050706
+35066,Niagara Centre,35,Ontario,42.94678297,-79.19886215
+35068,Niagara West,35,Ontario,43.02487437,-79.48262106
+35069,Nickel Belt,35,Ontario,46.97544894,-81.12690673
+35070,Nipissing--Timiskaming,35,Ontario,46.49645433,-79.23902677
+35058,Mississauga Centre,35,Ontario,43.57769203,-79.66263569
+35060,Mississauga--Erin Mills,35,Ontario,43.54283905,-79.71089057
+35061,Mississauga--Lakeshore,35,Ontario,43.54363656,-79.60187931
+35063,Mississauga--Streetsville,35,Ontario,43.59593162,-79.74431720
+35064,Nepean,35,Ontario,45.26587490,-75.79065309
+35065,Newmarket--Aurora,35,Ontario,44.04040172,-79.45865134
+35071,Northumberland--Peterborough South,35,Ontario,44.16082598,-78.12596387
+35075,Ottawa Centre,35,Ontario,45.39491346,-75.72423280
+35076,Orléans,35,Ontario,45.40849623,-75.50176247
+35077,Ottawa South,35,Ontario,45.36045076,-75.64699852
+35079,Ottawa West--Nepean,35,Ontario,45.35603161,-75.82209003
+35067,Niagara Falls,35,Ontario,43.00887751,-79.06948764
+35072,Oakville,35,Ontario,43.44491433,-79.69454896
+35087,Richmond Hill,35,Ontario,43.85882927,-79.41849059
+35089,St. Catharines,35,Ontario,43.19213463,-79.24230594
+35090,Toronto--St. Paul's,35,Ontario,43.69221219,-79.41821385
+35091,Sarnia--Lambton,35,Ontario,42.87636274,-82.22587363
+35093,Scarborough--Agincourt,35,Ontario,43.79705636,-79.30786237
+35094,Scarborough Centre,35,Ontario,43.75245963,-79.27481713
+35098,Scarborough Southwest,35,Ontario,43.70874599,-79.26219172
+35108,Toronto Centre,35,Ontario,43.65856853,-79.36963003
+35109,Toronto--Danforth,35,Ontario,43.65741086,-79.34046749
+35095,Scarborough--Guildwood,35,Ontario,43.76365231,-79.21682826
+35096,Scarborough North,35,Ontario,43.81041027,-79.25629699
+35111,Vaughan--Woodbridge,35,Ontario,43.80007753,-79.60561779
+35112,Waterloo,35,Ontario,43.48174493,-80.52361119
+48008,Calgary Midnapore,48,Alberta,50.91483368,-114.05171931
+48009,Calgary Nose Hill,48,Alberta,51.14537916,-114.10662201
+48010,Calgary Rocky Ridge,48,Alberta,51.14779702,-114.18852851
+48011,Calgary Shepard,48,Alberta,50.94467209,-113.92503098
+48012,Calgary Signal Hill,48,Alberta,51.05746218,-114.20083289
+48013,Calgary Skyview,48,Alberta,51.15073285,-113.98694466
+48018,Edmonton Riverbend,48,Alberta,53.45557457,-113.57830905
+48019,Edmonton Strathcona,48,Alberta,53.50774661,-113.45795648
+48020,Edmonton West,48,Alberta,53.49102651,-113.63965290
+48021,Edmonton--Wetaskiwin,48,Alberta,52.94648954,-114.02189314
+48022,Foothills,48,Alberta,50.11214081,-114.07791230
+48023,Fort McMurray--Cold Lake,48,Alberta,57.21312542,-112.17774305
+35099,Simcoe--Grey,35,Ontario,44.44491845,-80.14255368
+35100,Simcoe North,35,Ontario,44.69856604,-79.80204810
+35101,Spadina--Fort York,35,Ontario,43.63397158,-79.38456600
+35102,Stormont--Dundas--South Glengarry,35,Ontario,45.09123497,-74.97634249
+35103,Sudbury,35,Ontario,46.37676143,-81.24778381
+35104,Thornhill,35,Ontario,43.80690129,-79.47360019
+35105,Thunder Bay--Rainy River,35,Ontario,49.04136272,-91.75089896
+35106,Thunder Bay--Superior North,35,Ontario,49.78274525,-87.68804766
+35107,Timmins--James Bay,35,Ontario,51.50351060,-82.70751313
+35110,University--Rosedale,35,Ontario,43.67194411,-79.39419408
+35113,Wellington--Halton Hills,35,Ontario,43.62080515,-80.17893982
+48024,Grande Prairie--Mackenzie,48,Alberta,57.54667072,-117.59016621
+48025,Lakeland,48,Alberta,54.09393863,-111.71459084
+48026,Lethbridge,48,Alberta,49.81303130,-112.77099975
+48027,Medicine Hat--Cardston--Warner,48,Alberta,49.63476696,-111.75329106
+48028,Peace River--Westlock,48,Alberta,56.25585004,-115.65202704
+48029,Red Deer--Mountain View,48,Alberta,51.89760983,-113.93153402
+48006,Calgary Forest Lawn,48,Alberta,51.06325738,-113.94856333
+59007,Cloverdale--Langley City,59,British Columbia,49.10996992,-122.72658410
+35114,Whitby,35,Ontario,43.93101180,-78.96457967
+35115,Willowdale,35,Ontario,43.77745144,-79.41649987
+35116,Windsor--Tecumseh,35,Ontario,42.27739457,-82.94288936
+35117,Windsor West,35,Ontario,42.28284705,-83.03137344
+35118,York Centre,35,Ontario,43.75272221,-79.46035644
+35119,York--Simcoe,35,Ontario,44.23248931,-79.42950717
+35121,Humber River--Black Creek,35,Ontario,43.75039406,-79.53775233
+46001,Brandon--Souris,46,Manitoba,49.53623296,-100.10336813
+46003,Churchill--Keewatinook Aski,46,Manitoba,55.33356952,-95.70137218
+46004,Dauphin--Swan River--Neepawa,46,Manitoba,51.39018723,-100.22603904
+46007,Portage--Lisgar,46,Manitoba,49.62377935,-98.14300278
+46008,Provencher,46,Manitoba,49.65791276,-96.31478014
+46010,Selkirk--Interlake--Eastman,46,Manitoba,50.79121424,-97.20491091
+47001,Battlefords--Lloydminster,47,Saskatchewan,52.75329359,-109.01525353
+47002,Cypress Hills--Grasslands,47,Saskatchewan,50.27328349,-108.08938700
+35120,York South--Weston,35,Ontario,43.69456453,-79.49812273
+46002,Charleswood--St. James--Assiniboia--Headingley,46,Manitoba,49.86890867,-97.33409222
+46005,Elmwood--Transcona,46,Manitoba,49.90553367,-97.04122112
+46006,Kildonan--St. Paul,46,Manitoba,49.99552062,-97.07151357
+46009,Saint Boniface--Saint Vital,46,Manitoba,49.84554202,-97.08680309
+46011,Winnipeg Centre,46,Manitoba,49.90467901,-97.16842376
+46012,Winnipeg North,46,Manitoba,49.93899689,-97.17109244
+46013,Winnipeg South,46,Manitoba,49.77706887,-97.13538052
+46014,Winnipeg South Centre,46,Manitoba,49.84848919,-97.17442230
+47003,Desnethé--Missinippi--Churchill River,47,Saskatchewan,56.47225084,-106.15529005
+47004,Carlton Trail--Eagle Creek,47,Saskatchewan,52.31289334,-106.75167743
+47005,Moose Jaw--Lake Centre--Lanigan,47,Saskatchewan,50.94849143,-105.54343152
+47006,Prince Albert,47,Saskatchewan,53.16245515,-104.65498277
+47007,Regina--Lewvan,47,Saskatchewan,50.45463463,-104.66719810
+47008,Regina--Qu'Appelle,47,Saskatchewan,51.13685343,-103.91697872
+47009,Regina--Wascana,47,Saskatchewan,50.42630906,-104.55064523
+47010,Saskatoon--Grasswood,47,Saskatchewan,52.03865905,-106.60754331
+47013,Souris--Moose Mountain,47,Saskatchewan,49.66421101,-103.55319518
+47014,Yorkton--Melville,47,Saskatchewan,51.94548135,-103.06689816
+48001,Banff--Airdrie,48,Alberta,51.68249730,-115.48968511
+48002,Battle River--Crowfoot,48,Alberta,52.03745830,-111.74713264
+47011,Saskatoon--University,47,Saskatchewan,52.16148418,-106.59509535
+47012,Saskatoon West,47,Saskatchewan,52.15531097,-106.71422149
+48003,Bow River,48,Alberta,50.62655968,-112.52038873
+48004,Calgary Centre,48,Alberta,51.01861319,-114.07190877
+48005,Calgary Confederation,48,Alberta,51.07938680,-114.10518336
+59016,Langley--Aldergrove,59,British Columbia,49.08850650,-122.55629644
+59017,Mission--Matsqui--Fraser Canyon,59,British Columbia,50.33508436,-122.01852987
+59018,Nanaimo--Ladysmith,59,British Columbia,49.13243544,-124.04211244
+59020,North Okanagan--Shuswap,59,British Columbia,50.58033712,-118.98566061
+59021,North Vancouver,59,British Columbia,49.43601411,-123.02900475
+48014,Edmonton Centre,48,Alberta,53.54759991,-113.55276759
+48015,Edmonton Griesbach,48,Alberta,53.57915029,-113.46804662
+48016,Edmonton Manning,48,Alberta,53.63756834,-113.38968759
+48017,Edmonton Mill Woods,48,Alberta,53.46226770,-113.41866147
+59004,Cariboo--Prince George,59,British Columbia,52.74049165,-123.27434108
+59005,Central Okanagan--Similkameen--Nicola,59,British Columbia,49.82017740,-120.33608256
+59006,Chilliwack--Hope,59,British Columbia,49.17425562,-121.41564880
+59008,Coquitlam--Port Coquitlam,59,British Columbia,49.43109357,-122.73777231
+59009,Courtenay--Alberni,59,British Columbia,49.24070397,-125.17924472
+59010,Cowichan--Malahat--Langford,59,British Columbia,48.72483925,-124.18626327
+59003,Burnaby South,59,British Columbia,49.23400930,-122.96701026
+59031,Steveston--Richmond East,59,British Columbia,49.11885410,-123.17585866
+59011,Delta,59,British Columbia,49.07363448,-123.07552787
+59023,Port Moody--Coquitlam,59,British Columbia,49.29657964,-122.85311329
+59025,Richmond Centre,59,British Columbia,49.22215788,-123.37098905
+59027,Saanich--Gulf Islands,59,British Columbia,48.78190865,-123.31868861
+59030,South Surrey--White Rock,59,British Columbia,49.04572911,-122.81341368
+59012,Fleetwood--Port Kells,59,British Columbia,49.18290156,-122.76311252
+59022,Pitt Meadows--Maple Ridge,59,British Columbia,49.58245717,-122.56390118
+59024,Prince George--Peace River--Northern Rockies,59,British Columbia,56.37214698,-121.92754357
+59026,Esquimalt--Saanich--Sooke,59,British Columbia,48.35917780,-123.69003457
+48030,Red Deer--Lacombe,48,Alberta,52.59052950,-113.80937199
+48031,St. Albert--Edmonton,48,Alberta,53.63052785,-113.61454938
+48032,Sherwood Park--Fort Saskatchewan,48,Alberta,53.58378202,-113.12203920
+48033,Sturgeon River--Parkland,48,Alberta,53.75389538,-113.66946355
+48034,Yellowhead,48,Alberta,53.27996107,-116.80608569
+59001,Abbotsford,59,British Columbia,49.04187899,-122.22152801
+59002,Burnaby North--Seymour,59,British Columbia,49.32762260,-122.93672141
+59019,New Westminster--Burnaby,59,British Columbia,49.21578639,-122.92627269
+48007,Calgary Heritage,48,Alberta,50.94416483,-114.14114306
+59032,Surrey Centre,59,British Columbia,49.18721408,-122.85865083
+59033,Surrey--Newton,59,British Columbia,49.13425166,-122.85584240
+59034,Vancouver Centre,59,British Columbia,49.29181078,-123.13488152
+59035,Vancouver East,59,British Columbia,49.27713491,-123.06544857
+59036,Vancouver Granville,59,British Columbia,49.23867830,-123.12567107
+59037,North Island--Powell River,59,British Columbia,50.62468175,-126.21689726
+59038,Vancouver Kingsway,59,British Columbia,49.24467136,-123.06169651
+59039,Vancouver Quadra,59,British Columbia,49.24826750,-123.21110258
+59040,Vancouver South,59,British Columbia,49.21680193,-123.06921338
+59041,Victoria,59,British Columbia,48.36430269,-123.29468113
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,59,British Columbia,50.11415136,-123.33363284
+60001,Yukon,60,Yukon,63.24270349,-136.33943528
+61001,Northwest Territories,61,Northwest Territories,74.06888427,-122.55501174
+62001,Nunavut,62,Nunavut,71.70813467,-84.78610709
