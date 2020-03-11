@@ -38,10 +38,6 @@ def province_en(str):
 # Defining namespace prefixes for element names
 gml = '{http://www.opengis.net/gml}'
 fme = '{http://www.safe.com/gml/fme}'
-ns = {
-    'gml': 'http://www.opengis.net/gm',
-    'fme': 'http://www.safe.com/gml/fme'
-}
 
 # Defining element names
 FED      = f"{fme}lfed000a16g_e"
@@ -72,4 +68,4 @@ with open(csv_fname, 'w', newline='', encoding='utf-8') as csvfile:
         pos_list = district.find(f".//{POS_LIST}")
         center_x, center_y = find_center(pos_list.text)
         print(fed_id, fed_name, pr_id, pr_name, center_x, center_y)
-        csvwriter.writerow([fed_id, fed_name, pr_id, pr_name, "{:.8f}".format(center_x), "{:.8f}".format(center_x)])
+        csvwriter.writerow([fed_id, fed_name, pr_id, pr_name, "{:.8f}".format(center_x), "{:.8f}".format(center_y)])
