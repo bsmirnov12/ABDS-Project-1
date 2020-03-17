@@ -1,0 +1,339 @@
+,FED ID,Federal Electoral Districts_x, No Certificate , Secondary School Diploma , Non-university certificate or diploma , University level or above ,ï»¿Province,Party Won
+0,59001,Abbotsford, 0.22 , 0.39 , 0.19 , 0.20 ,British Columba,Conservative
+1,24001,Abitibi--Baie-James--Nunavik--Eeyou, 0.47 , 0.23 , 0.18 , 0.13 ,Quebec,NDP
+2,24002,Abitibi--TÃ©miscamingue, 0.36 , 0.26 , 0.21 , 0.17 ,Quebec,NDP
+3,13001,Acadie--Bathurst, 0.36 , 0.27 , 0.24 , 0.13 ,New Brunswick/Nouveau-Brunswick,Liberal
+4,24003,Ahuntsic-Cartierville, 0.18 , 0.22 , 0.20 , 0.40 ,Quebec,Liberal
+5,35001,Ajax, 0.15 , 0.31 , 0.26 , 0.28 ,Ontario,Liberal
+6,24004,Alfred-Pellan, 0.21 , 0.28 , 0.24 , 0.27 ,Quebec,Liberal
+7,35002,Algoma--Manitoulin--Kapuskasing, 0.29 , 0.31 , 0.28 , 0.13 ,Ontario,NDP
+8,24005,Argenteuil--La Petite-Nation, 0.34 , 0.31 , 0.20 , 0.14 ,Quebec,Liberal
+9,35003,Aurora--Oak Ridges--Richmond Hill, 0.13 , 0.24 , 0.18 , 0.45 ,Ontario,Liberal
+10,10001,Avalon, 0.21 , 0.29 , 0.33 , 0.17 ,Newfoundland and Labrador,Liberal
+11,24006,Avignon--La Mitis--Matane--MatapÃ©dia, 0.36 , 0.28 , 0.23 , 0.14 ,Quebec,Liberal
+12,48001,Banff--Airdrie, 0.14 , 0.31 , 0.27 , 0.28 ,Alberta,Conservative
+13,35004,Barrie--Innisfil, 0.19 , 0.34 , 0.29 , 0.18 ,Ontario,Conservative
+14,35005,Barrie--Springwater--Oro-Medonte, 0.17 , 0.33 , 0.30 , 0.20 ,Ontario,Conservative
+15,48002,Battle River--Crowfoot, 0.24 , 0.38 , 0.25 , 0.14 ,Alberta,Conservative
+16,47001,Battlefords--Lloydminster, 0.28 , 0.35 , 0.23 , 0.14 ,Saskatchewan,Conservative
+17,35006,Bay of Quinte, 0.21 , 0.34 , 0.30 , 0.15 ,Ontario,Liberal
+18,35007,Beaches--East York, 0.14 , 0.24 , 0.19 , 0.43 ,Ontario,Liberal
+19,24007,Beauce, 0.33 , 0.29 , 0.23 , 0.15 ,Quebec,Conservative
+20,24020,Beauport--CÃ´te-de-BeauprÃ©--ÃŽle d'OrlÃ©ans--Charlevoix, 0.24 , 0.28 , 0.27 , 0.21 ,Quebec,Conservative
+21,24008,Beauport--Limoilou, 0.22 , 0.27 , 0.26 , 0.25 ,Quebec,Conservative
+22,13002,BeausÃ©jour, 0.26 , 0.28 , 0.27 , 0.19 ,New Brunswick/Nouveau-Brunswick,Liberal
+23,24009,BÃ©cancour--Nicolet--Saurel, 0.32 , 0.27 , 0.25 , 0.15 ,Quebec,Bloc QuÃ©bÃ©cois
+24,24010,Bellechasse--Les Etchemins--LÃ©vis, 0.24 , 0.27 , 0.27 , 0.22 ,Quebec,Conservative
+25,24011,Beloeil--Chambly, 0.19 , 0.27 , 0.26 , 0.28 ,Quebec,NDP
+26,24012,Berthier--MaskinongÃ©, 0.34 , 0.30 , 0.23 , 0.13 ,Quebec,NDP
+27,10002,Bonavista--Burin--Trinity, 0.35 , 0.30 , 0.27 , 0.08 ,Newfoundland and Labrador,Liberal
+28,24015,Bourassa, 0.35 , 0.28 , 0.18 , 0.19 ,Quebec,Liberal
+29,48003,Bow River, 0.28 , 0.36 , 0.22 , 0.14 ,Alberta,Conservative
+30,35008,Brampton Centre, 0.20 , 0.35 , 0.22 , 0.22 ,Ontario,Liberal
+31,35009,Brampton East, 0.22 , 0.32 , 0.16 , 0.29 ,Ontario,Liberal
+32,35010,Brampton North, 0.20 , 0.33 , 0.21 , 0.26 ,Ontario,Liberal
+33,35011,Brampton South, 0.19 , 0.31 , 0.21 , 0.29 ,Ontario,Liberal
+34,35012,Brampton West, 0.17 , 0.31 , 0.21 , 0.30 ,Ontario,Liberal
+35,46001,Brandon--Souris, 0.23 , 0.36 , 0.23 , 0.18 ,Manitoba,Conservative
+36,35013,Brantford--Brant, 0.21 , 0.35 , 0.28 , 0.16 ,Ontario,Conservative
+37,24016,Brome--Missisquoi, 0.27 , 0.31 , 0.21 , 0.22 ,Quebec,Liberal
+38,24017,Brossard--Saint-Lambert, 0.14 , 0.23 , 0.21 , 0.42 ,Quebec,Liberal
+39,35014,Bruce--Grey--Owen Sound, 0.25 , 0.33 , 0.28 , 0.15 ,Ontario,Conservative
+40,35015,Burlington, 0.13 , 0.29 , 0.27 , 0.31 ,Ontario,Liberal
+41,59002,Burnaby North--Seymour, 0.12 , 0.32 , 0.19 , 0.37 ,British Columba,Liberal
+42,59003,Burnaby South, 0.12 , 0.29 , 0.19 , 0.41 ,British Columba,NDP
+43,48004,Calgary Centre, 0.07 , 0.21 , 0.16 , 0.55 ,Alberta,Liberal
+44,48005,Calgary Confederation, 0.09 , 0.23 , 0.17 , 0.51 ,Alberta,Conservative
+45,48006,Calgary Forest Lawn, 0.28 , 0.37 , 0.19 , 0.16 ,Alberta,Conservative
+46,48007,Calgary Heritage, 0.12 , 0.29 , 0.21 , 0.38 ,Alberta,Conservative
+47,48008,Calgary Midnapore, 0.13 , 0.31 , 0.23 , 0.33 ,Alberta,Conservative
+48,48009,Calgary Nose Hill, 0.15 , 0.30 , 0.20 , 0.35 ,Alberta,Conservative
+49,48010,Calgary Rocky Ridge, 0.10 , 0.24 , 0.21 , 0.45 ,Alberta,Conservative
+50,48011,Calgary Shepard, 0.15 , 0.31 , 0.24 , 0.30 ,Alberta,Conservative
+51,48012,Calgary Signal Hill, 0.11 , 0.24 , 0.18 , 0.46 ,Alberta,Conservative
+52,48013,Calgary Skyview, 0.21 , 0.34 , 0.18 , 0.27 ,Alberta,Liberal
+53,35016,Cambridge, 0.23 , 0.35 , 0.25 , 0.17 ,Ontario,Liberal
+54,12001,Cape Breton--Canso, 0.26 , 0.29 , 0.28 , 0.17 ,Nova Scotia,Liberal
+55,11001,Cardigan, 0.19 , 0.30 , 0.29 , 0.23 ,Prince Edward Island,Liberal
+56,59004,Cariboo--Prince George, 0.25 , 0.39 , 0.20 , 0.16 ,British Columba,Conservative
+57,35088,Carleton, 0.11 , 0.26 , 0.26 , 0.37 ,Ontario,Conservative
+58,47004,Carlton Trail--Eagle Creek, 0.23 , 0.37 , 0.24 , 0.16 ,Saskatchewan,Conservative
+59,12002,Central Nova, 0.24 , 0.29 , 0.28 , 0.19 ,Nova Scotia,Liberal
+60,59005,Central Okanagan--Similkameen--Nicola, 0.18 , 0.36 , 0.27 , 0.19 ,British Columba,Conservative
+61,24019,Charlesbourg--Haute-Saint-Charles, 0.18 , 0.28 , 0.29 , 0.25 ,Quebec,Conservative
+62,46002,Charleswood--St. James--Assiniboia--Headingley, 0.15 , 0.36 , 0.23 , 0.27 ,Manitoba,Liberal
+63,11002,Charlottetown, 0.15 , 0.28 , 0.26 , 0.31 ,Prince Edward Island,Liberal
+64,24021,ChÃ¢teauguay--Lacolle, 0.27 , 0.34 , 0.23 , 0.16 ,Quebec,Liberal
+65,35017,Chatham-Kent--Leamington, 0.28 , 0.32 , 0.27 , 0.13 ,Ontario,Conservative
+66,24022,Chicoutimi--Le Fjord, 0.24 , 0.26 , 0.25 , 0.25 ,Quebec,Liberal
+67,59006,Chilliwack--Hope, 0.22 , 0.41 , 0.22 , 0.15 ,British Columba,Conservative
+68,46003,Churchill--Keewatinook Aski, 0.50 , 0.27 , 0.14 , 0.10 ,Manitoba,NDP
+69,59007,Cloverdale--Langley City, 0.17 , 0.38 , 0.23 , 0.22 ,British Columba,Liberal
+70,10003,Coast of Bays--Central--Notre Dame, 0.34 , 0.30 , 0.25 , 0.10 ,Newfoundland and Labrador,Liberal
+71,24023,Compton--Stanstead, 0.27 , 0.28 , 0.23 , 0.22 ,Quebec,Liberal
+72,59008,Coquitlam--Port Coquitlam, 0.13 , 0.33 , 0.21 , 0.32 ,British Columba,Liberal
+73,59009,Courtenay--Alberni, 0.20 , 0.35 , 0.25 , 0.19 ,British Columba,NDP
+74,59010,Cowichan--Malahat--Langford, 0.19 , 0.36 , 0.25 , 0.20 ,British Columba,NDP
+75,12003,Cumberland--Colchester, 0.24 , 0.32 , 0.27 , 0.17 ,Nova Scotia,Liberal
+76,47002,Cypress Hills--Grasslands, 0.24 , 0.39 , 0.23 , 0.14 ,Saskatchewan,Conservative
+77,12004,Dartmouth--Cole Harbour, 0.16 , 0.30 , 0.26 , 0.29 ,Nova Scotia,Liberal
+78,46004,Dauphin--Swan River--Neepawa, 0.34 , 0.34 , 0.21 , 0.11 ,Manitoba,Conservative
+79,35018,Davenport, 0.22 , 0.25 , 0.17 , 0.36 ,Ontario,Liberal
+80,59011,Delta, 0.16 , 0.36 , 0.21 , 0.26 ,British Columba,Liberal
+81,47003,DesnethÃ©--Missinippi--Churchill River, 0.48 , 0.28 , 0.15 , 0.09 ,Saskatchewan,NDP
+82,35019,Don Valley East, 0.16 , 0.28 , 0.19 , 0.37 ,Ontario,Liberal
+83,35020,Don Valley North, 0.11 , 0.23 , 0.16 , 0.50 ,Ontario,Liberal
+84,35021,Don Valley West, 0.11 , 0.20 , 0.13 , 0.56 ,Ontario,Liberal
+85,24024,Dorval--Lachine--LaSalle, 0.21 , 0.29 , 0.21 , 0.28 ,Quebec,Liberal
+86,24025,Drummond, 0.31 , 0.29 , 0.24 , 0.15 ,Quebec,NDP
+87,35022,Dufferin--Caledon, 0.18 , 0.34 , 0.27 , 0.21 ,Ontario,Conservative
+88,35023,Durham, 0.16 , 0.32 , 0.32 , 0.20 ,Ontario,Conservative
+89,48014,Edmonton Centre, 0.14 , 0.29 , 0.19 , 0.38 ,Alberta,Liberal
+90,48015,Edmonton Griesbach, 0.27 , 0.35 , 0.21 , 0.17 ,Alberta,Conservative
+91,48016,Edmonton Manning, 0.21 , 0.36 , 0.23 , 0.20 ,Alberta,Conservative
+92,48017,Edmonton Mill Woods, 0.18 , 0.35 , 0.21 , 0.26 ,Alberta,Liberal
+93,48018,Edmonton Riverbend, 0.10 , 0.24 , 0.19 , 0.47 ,Alberta,Conservative
+94,48019,Edmonton Strathcona, 0.11 , 0.27 , 0.18 , 0.44 ,Alberta,NDP
+95,48020,Edmonton West, 0.16 , 0.32 , 0.22 , 0.30 ,Alberta,Conservative
+96,48021,Edmonton--Wetaskiwin, 0.17 , 0.33 , 0.23 , 0.27 ,Alberta,Conservative
+97,35024,Eglinton--Lawrence, 0.14 , 0.23 , 0.15 , 0.48 ,Ontario,Liberal
+98,11003,Egmont, 0.28 , 0.35 , 0.24 , 0.13 ,Prince Edward Island,Liberal
+99,35025,Elgin--Middlesex--London, 0.24 , 0.32 , 0.30 , 0.14 ,Ontario,Conservative
+100,46005,Elmwood--Transcona, 0.20 , 0.39 , 0.22 , 0.19 ,Manitoba,NDP
+101,59026,Esquimalt--Saanich--Sooke, 0.16 , 0.35 , 0.24 , 0.25 ,British Columba,NDP
+102,35026,Essex, 0.17 , 0.33 , 0.27 , 0.22 ,Ontario,NDP
+103,35027,Etobicoke Centre, 0.15 , 0.28 , 0.19 , 0.38 ,Ontario,Liberal
+104,35029,Etobicoke North, 0.25 , 0.33 , 0.19 , 0.22 ,Ontario,Liberal
+105,35028,Etobicoke--Lakeshore, 0.13 , 0.24 , 0.21 , 0.43 ,Ontario,Liberal
+106,35030,Flamborough--Glanbrook, 0.16 , 0.30 , 0.29 , 0.25 ,Ontario,Conservative
+107,59012,Fleetwood--Port Kells, 0.18 , 0.35 , 0.19 , 0.27 ,British Columba,Liberal
+108,48022,Foothills, 0.18 , 0.34 , 0.25 , 0.24 ,Alberta,Conservative
+109,48023,Fort McMurray--Cold Lake, 0.18 , 0.34 , 0.27 , 0.20 ,Alberta,Conservative
+110,13003,Fredericton, 0.14 , 0.32 , 0.21 , 0.33 ,New Brunswick/Nouveau-Brunswick,Liberal
+111,13004,Fundy Royal, 0.18 , 0.35 , 0.28 , 0.19 ,New Brunswick/Nouveau-Brunswick,Liberal
+112,24026,GaspÃ©sie--Les ÃŽles-de-la-Madeleine, 0.39 , 0.25 , 0.23 , 0.14 ,Quebec,Liberal
+113,24027,Gatineau, 0.26 , 0.30 , 0.23 , 0.21 ,Quebec,Liberal
+114,35031,Glengarry--Prescott--Russell, 0.20 , 0.35 , 0.28 , 0.17 ,Ontario,Liberal
+115,48024,Grande Prairie--Mackenzie, 0.27 , 0.36 , 0.23 , 0.14 ,Alberta,Conservative
+116,35032,Guelph, 0.16 , 0.30 , 0.21 , 0.33 ,Ontario,Liberal
+117,35033,Haldimand--Norfolk, 0.24 , 0.35 , 0.29 , 0.12 ,Ontario,Conservative
+118,35034,Haliburton--Kawartha Lakes--Brock, 0.22 , 0.35 , 0.30 , 0.13 ,Ontario,Conservative
+119,12005,Halifax, 0.11 , 0.26 , 0.16 , 0.47 ,Nova Scotia,Liberal
+120,12006,Halifax West, 0.13 , 0.26 , 0.22 , 0.39 ,Nova Scotia,Liberal
+121,35035,Hamilton Centre, 0.25 , 0.30 , 0.22 , 0.23 ,Ontario,NDP
+122,35036,Hamilton East--Stoney Creek, 0.25 , 0.34 , 0.25 , 0.16 ,Ontario,Liberal
+123,35037,Hamilton Mountain, 0.21 , 0.34 , 0.28 , 0.17 ,Ontario,NDP
+124,35038,Hamilton West--Ancaster--Dundas, 0.14 , 0.27 , 0.23 , 0.36 ,Ontario,Liberal
+125,35039,Hastings--Lennox and Addington, 0.22 , 0.34 , 0.31 , 0.13 ,Ontario,Liberal
+126,24028,Hochelaga, 0.20 , 0.23 , 0.22 , 0.35 ,Quebec,NDP
+127,24029,HonorÃ©-Mercier, 0.26 , 0.29 , 0.23 , 0.23 ,Quebec,Liberal
+128,24030,Hull--Aylmer, 0.19 , 0.24 , 0.21 , 0.37 ,Quebec,Liberal
+129,35121,Humber River--Black Creek, 0.32 , 0.33 , 0.18 , 0.17 ,Ontario,Liberal
+130,35040,Huron--Bruce, 0.24 , 0.31 , 0.30 , 0.16 ,Ontario,Conservative
+131,24031,Joliette, 0.32 , 0.31 , 0.21 , 0.16 ,Quebec,Bloc QuÃ©bÃ©cois
+132,24032,JonquiÃ¨re, 0.24 , 0.26 , 0.31 , 0.20 ,Quebec,NDP
+133,59013,Kamloops--Thompson--Cariboo, 0.19 , 0.39 , 0.22 , 0.20 ,British Columba,Conservative
+134,35041,Kanata--Carleton, 0.11 , 0.24 , 0.25 , 0.41 ,Ontario,Liberal
+135,59014,Kelowna--Lake Country, 0.16 , 0.36 , 0.26 , 0.22 ,British Columba,Liberal
+136,35042,Kenora, 0.37 , 0.28 , 0.22 , 0.13 ,Ontario,Liberal
+137,46006,Kildonan--St. Paul, 0.18 , 0.35 , 0.22 , 0.25 ,Manitoba,Liberal
+138,12007,Kings--Hants, 0.22 , 0.30 , 0.28 , 0.20 ,Nova Scotia,Liberal
+139,35044,Kingston and the Islands, 0.14 , 0.29 , 0.26 , 0.31 ,Ontario,Liberal
+140,35043,King--Vaughan, 0.17 , 0.28 , 0.20 , 0.35 ,Ontario,Liberal
+141,35045,Kitchener Centre, 0.20 , 0.31 , 0.23 , 0.26 ,Ontario,Liberal
+142,35047,Kitchener South--Hespeler, 0.18 , 0.32 , 0.27 , 0.23 ,Ontario,Liberal
+143,35046,Kitchener--Conestoga, 0.22 , 0.29 , 0.24 , 0.24 ,Ontario,Conservative
+144,59015,Kootenay--Columbia, 0.18 , 0.35 , 0.27 , 0.20 ,British Columba,NDP
+145,24033,La Pointe-de-l'ÃŽle, 0.27 , 0.30 , 0.21 , 0.22 ,Quebec,Bloc QuÃ©bÃ©cois
+146,24034,La Prairie, 0.21 , 0.28 , 0.24 , 0.27 ,Quebec,Liberal
+147,10004,Labrador, 0.30 , 0.26 , 0.31 , 0.13 ,Newfoundland and Labrador,Liberal
+148,24035,Lac-Saint-Jean, 0.32 , 0.26 , 0.26 , 0.16 ,Quebec,Conservative
+149,24036,Lac-Saint-Louis, 0.11 , 0.23 , 0.23 , 0.43 ,Quebec,Liberal
+150,48025,Lakeland, 0.27 , 0.34 , 0.25 , 0.14 ,Alberta,Conservative
+151,35048,Lambton--Kent--Middlesex, 0.22 , 0.32 , 0.30 , 0.15 ,Ontario,Conservative
+152,35049,Lanark--Frontenac--Kingston, 0.18 , 0.33 , 0.32 , 0.18 ,Ontario,Conservative
+153,59016,Langley--Aldergrove, 0.17 , 0.39 , 0.22 , 0.22 ,British Columba,Conservative
+154,24037,LaSalle--Ã‰mard--Verdun, 0.20 , 0.25 , 0.20 , 0.34 ,Quebec,Liberal
+155,24038,Laurentides--Labelle, 0.29 , 0.29 , 0.22 , 0.20 ,Quebec,Liberal
+156,24039,Laurier--Sainte-Marie, 0.10 , 0.17 , 0.18 , 0.56 ,Quebec,NDP
+157,24040,Laval--Les ÃŽles, 0.22 , 0.28 , 0.22 , 0.28 ,Quebec,Liberal
+158,35050,Leeds-Grenville-Thousand Islands and Rideau Lakes, 0.19 , 0.33 , 0.31 , 0.16 ,Ontario,Conservative
+159,48026,Lethbridge, 0.19 , 0.35 , 0.24 , 0.22 ,Alberta,Conservative
+160,24042,LÃ©vis--LotbiniÃ¨re, 0.19 , 0.25 , 0.29 , 0.27 ,Quebec,Conservative
+161,35052,London North Centre, 0.14 , 0.28 , 0.22 , 0.35 ,Ontario,Liberal
+162,35053,London West, 0.13 , 0.27 , 0.26 , 0.34 ,Ontario,Liberal
+163,35051,London--Fanshawe, 0.23 , 0.35 , 0.28 , 0.14 ,Ontario,NDP
+164,10005,Long Range Mountains, 0.31 , 0.29 , 0.27 , 0.13 ,Newfoundland and Labrador,Liberal
+165,24041,Longueuil--Charles-LeMoyne, 0.27 , 0.29 , 0.21 , 0.23 ,Quebec,Liberal
+166,24043,Longueuil--Saint-Hubert, 0.22 , 0.26 , 0.23 , 0.29 ,Quebec,NDP
+167,24044,Louis-HÃ©bert, 0.09 , 0.18 , 0.25 , 0.48 ,Quebec,Liberal
+168,24045,Louis-Saint-Laurent, 0.16 , 0.26 , 0.28 , 0.29 ,Quebec,Conservative
+169,13005,Madawaska--Restigouche, 0.31 , 0.31 , 0.24 , 0.14 ,New Brunswick/Nouveau-Brunswick,Liberal
+170,11004,Malpeque, 0.18 , 0.30 , 0.30 , 0.22 ,Prince Edward Island,Liberal
+171,24046,Manicouagan, 0.37 , 0.26 , 0.23 , 0.14 ,Quebec,Bloc QuÃ©bÃ©cois
+172,24065,Marc-AurÃ¨le-Fortin, 0.19 , 0.27 , 0.26 , 0.28 ,Quebec,Liberal
+173,35054,Markham--Stouffville, 0.15 , 0.28 , 0.20 , 0.38 ,Ontario,Liberal
+174,35055,Markham--Thornhill, 0.21 , 0.31 , 0.15 , 0.33 ,Ontario,Liberal
+175,35056,Markham--Unionville, 0.15 , 0.26 , 0.16 , 0.44 ,Ontario,Conservative
+176,48027,Medicine Hat--Cardston--Warner, 0.25 , 0.36 , 0.26 , 0.14 ,Alberta,Conservative
+177,24047,MÃ©gantic--L'Ã‰rable, 0.37 , 0.29 , 0.23 , 0.12 ,Quebec,Conservative
+178,35057,Milton, 0.12 , 0.26 , 0.24 , 0.39 ,Ontario,Conservative
+179,24048,Mirabel, 0.27 , 0.30 , 0.26 , 0.17 ,Quebec,Bloc QuÃ©bÃ©cois
+180,13006,Miramichi--Grand Lake, 0.31 , 0.34 , 0.24 , 0.11 ,New Brunswick/Nouveau-Brunswick,Liberal
+181,59017,Mission--Matsqui--Fraser Canyon, 0.25 , 0.40 , 0.20 , 0.15 ,British Columba,Liberal
+182,35058,Mississauga Centre, 0.13 , 0.27 , 0.18 , 0.42 ,Ontario,Liberal
+183,35059,Mississauga East--Cooksville, 0.19 , 0.30 , 0.21 , 0.31 ,Ontario,Liberal
+184,35060,Mississauga--Erin Mills, 0.12 , 0.25 , 0.19 , 0.44 ,Ontario,Liberal
+185,35061,Mississauga--Lakeshore, 0.15 , 0.28 , 0.21 , 0.36 ,Ontario,Liberal
+186,35062,Mississauga--Malton, 0.19 , 0.29 , 0.18 , 0.34 ,Ontario,Liberal
+187,35063,Mississauga--Streetsville, 0.13 , 0.28 , 0.21 , 0.38 ,Ontario,Liberal
+188,13007,Moncton--Riverview--Dieppe, 0.17 , 0.31 , 0.27 , 0.25 ,New Brunswick/Nouveau-Brunswick,Liberal
+189,24049,Montarville, 0.15 , 0.25 , 0.26 , 0.34 ,Quebec,Liberal
+190,24050,Montcalm, 0.34 , 0.30 , 0.23 , 0.13 ,Quebec,Bloc QuÃ©bÃ©cois
+191,24051,Montmagny--L'Islet--Kamouraska--RiviÃ¨re-du-Loup, 0.33 , 0.27 , 0.24 , 0.16 ,Quebec,Conservative
+192,24052,Mont-Royal, 0.13 , 0.22 , 0.18 , 0.47 ,Quebec,Liberal
+193,47005,Moose Jaw--Lake Centre--Lanigan, 0.21 , 0.39 , 0.23 , 0.17 ,Saskatchewan,Conservative
+194,59018,Nanaimo--Ladysmith, 0.17 , 0.36 , 0.23 , 0.23 ,British Columba,NDP
+195,35064,Nepean, 0.12 , 0.24 , 0.24 , 0.40 ,Ontario,Liberal
+196,13008,New Brunswick Southwest, 0.20 , 0.35 , 0.27 , 0.17 ,New Brunswick/Nouveau-Brunswick,Liberal
+197,59019,New Westminster--Burnaby, 0.13 , 0.31 , 0.21 , 0.35 ,British Columba,NDP
+198,35065,Newmarket--Aurora, 0.15 , 0.29 , 0.24 , 0.33 ,Ontario,Liberal
+199,35066,Niagara Centre, 0.21 , 0.36 , 0.27 , 0.16 ,Ontario,Liberal
+200,35067,Niagara Falls, 0.19 , 0.36 , 0.26 , 0.19 ,Ontario,Conservative
+201,35068,Niagara West, 0.16 , 0.32 , 0.29 , 0.23 ,Ontario,Conservative
+202,35069,Nickel Belt, 0.22 , 0.30 , 0.34 , 0.14 ,Ontario,Liberal
+203,35070,Nipissing--Timiskaming, 0.21 , 0.29 , 0.32 , 0.18 ,Ontario,Liberal
+204,59037,North Island--Powell River, 0.21 , 0.36 , 0.25 , 0.18 ,British Columba,NDP
+205,59020,North Okanagan--Shuswap, 0.21 , 0.37 , 0.26 , 0.16 ,British Columba,Conservative
+206,59021,North Vancouver, 0.10 , 0.27 , 0.20 , 0.44 ,British Columba,Liberal
+207,35071,Northumberland--Peterborough South, 0.19 , 0.34 , 0.30 , 0.17 ,Ontario,Liberal
+208,61001,Notre-Dame-de-GrÃ¢ce--Westmount, 0.09 , 0.18 , 0.18 , 0.55 ,Northwest Territories,Liberal
+209,24053,Nova Scotia, 0.21 , 0.29 , 0.25 , 0.25 ,Quebec,Liberal
+210,62001,Oakville North--Burlington, 0.11 , 0.23 , 0.20 , 0.46 ,Nunavut,Liberal
+211,35072,Ontario, 0.18 , 0.30 , 0.23 , 0.30 ,Ontario,Liberal
+212,35073,OrlÃ©ans, 0.11 , 0.27 , 0.26 , 0.36 ,Ontario,Liberal
+213,35076,Ottawa Centre, 0.09 , 0.19 , 0.14 , 0.58 ,Ontario,Liberal
+214,35074,Ottawa South, 0.15 , 0.27 , 0.19 , 0.39 ,Ontario,Conservative
+215,35075,Ottawa West--Nepean, 0.14 , 0.27 , 0.21 , 0.38 ,Ontario,Liberal
+216,35077,Ottawa--Vanier, 0.16 , 0.27 , 0.19 , 0.39 ,Ontario,Liberal
+217,35079,Outremont, 0.10 , 0.18 , 0.16 , 0.56 ,Ontario,Liberal
+218,35078,Oxford, 0.24 , 0.35 , 0.28 , 0.13 ,Ontario,Liberal
+219,24054,Papineau, 0.23 , 0.22 , 0.18 , 0.37 ,Quebec,NDP
+220,35080,Parkdale--High Park, 0.11 , 0.20 , 0.17 , 0.52 ,Ontario,Conservative
+221,24055,Parry Sound--Muskoka, 0.21 , 0.35 , 0.27 , 0.17 ,Quebec,Liberal
+222,35081,Peace River--Westlock, 0.37 , 0.33 , 0.19 , 0.11 ,Ontario,Liberal
+223,35082,Perth--Wellington, 0.28 , 0.34 , 0.24 , 0.14 ,Ontario,Conservative
+224,48028,Peterborough--Kawartha, 0.18 , 0.32 , 0.29 , 0.21 ,Alberta,Conservative
+225,35083,Pickering--Uxbridge, 0.14 , 0.31 , 0.26 , 0.28 ,Ontario,Conservative
+226,35084,Pierre-Boucher--Les Patriotes--VerchÃ¨res, 0.18 , 0.25 , 0.26 , 0.31 ,Ontario,Liberal
+227,35085,Pierrefonds--Dollard, 0.15 , 0.27 , 0.23 , 0.34 ,Ontario,Liberal
+228,24014,Pitt Meadows--Maple Ridge, 0.17 , 0.39 , 0.26 , 0.19 ,Quebec,Bloc QuÃ©bÃ©cois
+229,24056,Pontiac, 0.23 , 0.25 , 0.23 , 0.29 ,Quebec,Liberal
+230,59022,Port Moody--Coquitlam, 0.13 , 0.32 , 0.21 , 0.34 ,British Columba,Liberal
+231,24057,Portage--Lisgar, 0.33 , 0.34 , 0.19 , 0.14 ,Quebec,Liberal
+232,59023,Portneuf--Jacques-Cartier, 0.19 , 0.27 , 0.28 , 0.26 ,British Columba,NDP
+233,46007,Prince Albert, 0.27 , 0.35 , 0.22 , 0.16 ,Manitoba,Conservative
+234,24058,Prince Edward Island, 0.20 , 0.31 , 0.27 , 0.23 ,Quebec,Conservative
+235,47006,Prince George--Peace River--Northern Rockies, 0.27 , 0.38 , 0.22 , 0.14 ,Saskatchewan,Conservative
+236,59024,Quebec, 0.24 , 0.26 , 0.23 , 0.27 ,British Columba,Conservative
+237,46008,QuÃ©bec, 0.16 , 0.21 , 0.22 , 0.41 ,Manitoba,Conservative
+238,24059,Red Deer--Mountain View, 0.20 , 0.36 , 0.27 , 0.18 ,Quebec,Liberal
+239,48030,Regina--Lewvan, 0.13 , 0.36 , 0.19 , 0.32 ,Alberta,Conservative
+240,48029,Regina--Qu'Appelle, 0.25 , 0.39 , 0.19 , 0.17 ,Alberta,Conservative
+241,47007,Regina--Wascana, 0.15 , 0.35 , 0.16 , 0.34 ,Saskatchewan,NDP
+242,47008,Renfrew--Nipissing--Pembroke, 0.20 , 0.35 , 0.29 , 0.16 ,Saskatchewan,Conservative
+243,47009,Repentigny, 0.23 , 0.32 , 0.25 , 0.20 ,Saskatchewan,Liberal
+244,35086,Richmond Centre, 0.13 , 0.32 , 0.16 , 0.39 ,Ontario,Conservative
+245,24060,Richmond Hill, 0.13 , 0.25 , 0.17 , 0.45 ,Quebec,Bloc QuÃ©bÃ©cois
+246,59025,Richmond--Arthabaska, 0.34 , 0.27 , 0.23 , 0.16 ,British Columba,Conservative
+247,35087,Rimouski-Neigette--TÃ©miscouata--Les Basques, 0.26 , 0.26 , 0.26 , 0.22 ,Ontario,Liberal
+248,24061,RiviÃ¨re-des-Mille-ÃŽles, 0.23 , 0.30 , 0.25 , 0.22 ,Quebec,Conservative
+249,24018,RiviÃ¨re-du-Nord, 0.30 , 0.31 , 0.24 , 0.15 ,Quebec,NDP
+250,24062,Rosemont--La Petite-Patrie, 0.14 , 0.18 , 0.21 , 0.48 ,Quebec,Liberal
+251,24063,Saanich--Gulf Islands, 0.12 , 0.32 , 0.21 , 0.35 ,Quebec,Bloc QuÃ©bÃ©cois
+252,24064,Sackville--Preston--Chezzetcook, 0.18 , 0.32 , 0.29 , 0.21 ,Quebec,NDP
+253,59027,Saint Boniface--Saint Vital, 0.16 , 0.32 , 0.21 , 0.32 ,British Columba,Green Party
+254,12008,Saint John--Rothesay, 0.18 , 0.35 , 0.25 , 0.22 ,Nova Scotia,Liberal
+255,46009,Saint-Hyacinthe--Bagot, 0.34 , 0.31 , 0.22 , 0.14 ,Manitoba,Liberal
+256,13009,Saint-Jean, 0.27 , 0.31 , 0.24 , 0.18 ,New Brunswick/Nouveau-Brunswick,Liberal
+257,24066,Saint-Laurent, 0.17 , 0.23 , 0.19 , 0.42 ,Quebec,NDP
+258,24067,Saint-LÃ©onard--Saint-Michel, 0.32 , 0.28 , 0.19 , 0.21 ,Quebec,Liberal
+259,24068,Saint-Maurice--Champlain, 0.31 , 0.29 , 0.25 , 0.15 ,Quebec,Liberal
+260,24069,Salaberry--SuroÃ®t, 0.33 , 0.32 , 0.22 , 0.13 ,Quebec,Liberal
+261,24070,Sarnia--Lambton, 0.17 , 0.33 , 0.33 , 0.17 ,Quebec,Liberal
+262,24071,Saskatchewan, 0.22 , 0.36 , 0.20 , 0.22 ,Quebec,NDP
+263,35091,Saskatoon West, 0.21 , 0.37 , 0.20 , 0.22 ,Ontario,Conservative
+264,47012,Saskatoon--University, 0.12 , 0.30 , 0.19 , 0.39 ,Saskatchewan,NDP
+265,47010,Sault Ste. Marie, 0.19 , 0.33 , 0.29 , 0.20 ,Saskatchewan,Conservative
+266,47011,Scarborough Centre, 0.20 , 0.33 , 0.20 , 0.27 ,Saskatchewan,Conservative
+267,35092,Scarborough North, 0.25 , 0.33 , 0.17 , 0.25 ,Ontario,Liberal
+268,35094,Scarborough Southwest, 0.19 , 0.31 , 0.20 , 0.29 ,Ontario,Liberal
+269,35096,Scarborough--Agincourt, 0.21 , 0.30 , 0.17 , 0.31 ,Ontario,Liberal
+270,35098,Scarborough--Guildwood, 0.20 , 0.32 , 0.20 , 0.28 ,Ontario,Liberal
+271,35093,Scarborough--Rouge Park, 0.17 , 0.33 , 0.23 , 0.28 ,Ontario,Liberal
+272,35095,Selkirk--Interlake--Eastman, 0.26 , 0.36 , 0.23 , 0.14 ,Ontario,Liberal
+273,35097,Shefford, 0.31 , 0.32 , 0.21 , 0.15 ,Ontario,Liberal
+274,46010,Sherbrooke, 0.22 , 0.25 , 0.24 , 0.29 ,Manitoba,Conservative
+275,24072,Sherwood Park--Fort Saskatchewan, 0.15 , 0.34 , 0.28 , 0.24 ,Quebec,Liberal
+276,24073,Simcoe North, 0.22 , 0.34 , 0.29 , 0.15 ,Quebec,NDP
+277,48032,Simcoe--Grey, 0.20 , 0.36 , 0.27 , 0.18 ,Alberta,Conservative
+278,35100,Skeena--Bulkley Valley, 0.29 , 0.35 , 0.21 , 0.14 ,Ontario,Conservative
+279,35099,Souris--Moose Mountain, 0.25 , 0.41 , 0.20 , 0.13 ,Ontario,Conservative
+280,59028,South Okanagan--West Kootenay, 0.21 , 0.35 , 0.27 , 0.17 ,British Columba,NDP
+281,47013,South Shore--St. Margarets, 0.26 , 0.28 , 0.26 , 0.19 ,Saskatchewan,Conservative
+282,59029,South Surrey--White Rock, 0.12 , 0.32 , 0.22 , 0.34 ,British Columba,NDP
+283,12009,Spadina--Fort York, 0.05 , 0.15 , 0.14 , 0.66 ,Nova Scotia,Liberal
+284,59030,St. Albert--Edmonton, 0.16 , 0.33 , 0.25 , 0.26 ,British Columba,Conservative
+285,35101,St. Catharines, 0.18 , 0.35 , 0.26 , 0.21 ,Ontario,Liberal
+286,48031,St. John's East, 0.13 , 0.26 , 0.25 , 0.36 ,Alberta,Conservative
+287,35089,St. John's South--Mount Pearl, 0.17 , 0.30 , 0.29 , 0.24 ,Ontario,Liberal
+288,10006,Steveston--Richmond East, 0.14 , 0.33 , 0.17 , 0.37 ,Newfoundland and Labrador,Liberal
+289,10007,Stormont--Dundas--South Glengarry, 0.23 , 0.35 , 0.29 , 0.13 ,Newfoundland and Labrador,Liberal
+290,59031,Sturgeon River--Parkland, 0.21 , 0.38 , 0.27 , 0.15 ,British Columba,Liberal
+291,35102,Sudbury, 0.20 , 0.28 , 0.30 , 0.23 ,Ontario,Conservative
+292,48033,Surrey Centre, 0.24 , 0.38 , 0.18 , 0.20 ,Alberta,Conservative
+293,35103,Surrey--Newton, 0.24 , 0.39 , 0.15 , 0.22 ,Ontario,Liberal
+294,59032,Sydney--Victoria, 0.26 , 0.32 , 0.24 , 0.18 ,British Columba,Liberal
+295,59033,Terrebonne, 0.25 , 0.31 , 0.24 , 0.19 ,British Columba,Liberal
+296,12010,ThÃ©rÃ¨se-De Blainville, 0.21 , 0.27 , 0.25 , 0.27 ,Nova Scotia,Liberal
+297,24075,Thornhill, 0.11 , 0.24 , 0.18 , 0.47 ,Quebec,Bloc QuÃ©bÃ©cois
+298,24013,Thunder Bay--Rainy River, 0.23 , 0.32 , 0.28 , 0.17 ,Quebec,Liberal
+299,35104,Thunder Bay--Superior North, 0.22 , 0.28 , 0.27 , 0.23 ,Ontario,Conservative
+300,35105,Timmins--James Bay, 0.30 , 0.29 , 0.30 , 0.11 ,Ontario,Liberal
+301,35106,Tobique--Mactaquac, 0.23 , 0.36 , 0.24 , 0.16 ,Ontario,Liberal
+302,35107,Toronto Centre, 0.08 , 0.21 , 0.15 , 0.55 ,Ontario,NDP
+303,13010,Toronto--Danforth, 0.15 , 0.22 , 0.17 , 0.45 ,New Brunswick/Nouveau-Brunswick,Liberal
+304,35108,Toronto--St. Paul's, 0.09 , 0.19 , 0.15 , 0.58 ,Ontario,Liberal
+305,35109,Trois-RiviÃ¨res, 0.23 , 0.27 , 0.26 , 0.25 ,Ontario,Liberal
+306,35090,University--Rosedale, 0.08 , 0.20 , 0.10 , 0.62 ,Ontario,Liberal
+307,24076,Vancouver Centre, 0.04 , 0.19 , 0.18 , 0.58 ,Quebec,NDP
+308,35110,Vancouver East, 0.16 , 0.27 , 0.18 , 0.39 ,Ontario,Liberal
+309,59034,Vancouver Granville, 0.08 , 0.23 , 0.16 , 0.54 ,British Columba,Liberal
+310,59035,Vancouver Kingsway, 0.20 , 0.31 , 0.16 , 0.32 ,British Columba,NDP
+311,59036,Vancouver Quadra, 0.08 , 0.23 , 0.12 , 0.58 ,British Columba,Liberal
+312,59038,Vancouver South, 0.20 , 0.33 , 0.16 , 0.31 ,British Columba,NDP
+313,59039,Vaudreuil--Soulanges, 0.17 , 0.30 , 0.26 , 0.27 ,British Columba,Liberal
+314,59040,Vaughan--Woodbridge, 0.23 , 0.29 , 0.20 , 0.28 ,British Columba,Liberal
+315,24074,Victoria, 0.10 , 0.28 , 0.19 , 0.44 ,Quebec,Liberal
+316,35111,Ville-Marie--Le Sud-Ouest--ÃŽle-des-Soeurs, 0.08 , 0.19 , 0.15 , 0.58 ,Ontario,Liberal
+317,59041,Vimy, 0.24 , 0.27 , 0.22 , 0.27 ,British Columba,NDP
+318,24077,Waterloo, 0.12 , 0.28 , 0.18 , 0.42 ,Quebec,Liberal
+319,24078,Wellington--Halton Hills, 0.17 , 0.32 , 0.26 , 0.24 ,Quebec,Liberal
+320,35112,West Nova, 0.30 , 0.28 , 0.28 , 0.14 ,Ontario,Liberal
+321,35113,West Vancouver--Sunshine Coast--Sea to Sky Country, 0.12 , 0.30 , 0.19 , 0.39 ,Ontario,Conservative
+322,12011,Whitby, 0.14 , 0.30 , 0.28 , 0.28 ,Nova Scotia,Liberal
+323,59042,Willowdale, 0.08 , 0.22 , 0.14 , 0.56 ,British Columba,Liberal
+324,35114,Windsor West, 0.19 , 0.33 , 0.21 , 0.27 ,Ontario,Liberal
+325,35115,Windsor--Tecumseh, 0.18 , 0.35 , 0.26 , 0.21 ,Ontario,Liberal
+326,35117,Winnipeg Centre, 0.23 , 0.31 , 0.18 , 0.28 ,Ontario,NDP
+327,35116,Winnipeg North, 0.25 , 0.33 , 0.19 , 0.23 ,Ontario,NDP
+328,46011,Winnipeg South, 0.12 , 0.31 , 0.18 , 0.39 ,Manitoba,Liberal
+329,46012,Winnipeg South Centre, 0.11 , 0.28 , 0.16 , 0.45 ,Manitoba,Liberal
+330,46013,Yellowhead, 0.29 , 0.37 , 0.22 , 0.12 ,Manitoba,Liberal
+331,46014,York Centre, 0.18 , 0.28 , 0.19 , 0.34 ,Manitoba,Liberal
+332,48034,York South--Weston, 0.30 , 0.33 , 0.20 , 0.17 ,Alberta,Conservative
+333,35118,York--Simcoe, 0.20 , 0.35 , 0.27 , 0.18 ,Ontario,Liberal
+334,35120,Yorkton--Melville, 0.28 , 0.38 , 0.21 , 0.13 ,Ontario,Liberal
+335,35119,Yukon, 0.18 , 0.27 , 0.25 , 0.30 ,Ontario,Conservative
+336,47014,Grand Total, 0.19 , 0.30 , 0.23 , 0.28 ,Saskatchewan,Conservative
+337,60001,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,Yukon,Liberal
