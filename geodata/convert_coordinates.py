@@ -26,6 +26,9 @@ dst_fname = 'geodata.csv'
 src_file = open(src_fname, 'r', newline='', encoding='utf-8')
 src_csv = csv.reader(src_file, delimiter=',')
 
+territories = [60, 61, 62] # Yukon, NWT, Nunavut
+territory_capital = [(60.7428612, -135.1366892), (62.4539497, -114.3743066), (63.7475018, -68.5106334)]
+
 with open(dst_fname, 'w', newline='', encoding='utf-8') as dst_file:
     dst_csv = csv.writer(dst_file, delimiter=',')
 
@@ -36,6 +39,13 @@ with open(dst_fname, 'w', newline='', encoding='utf-8') as dst_file:
     dst_csv.writerow(['FED Id', 'FED Name', 'Province Id', 'Privince Name', 'Latitude', 'Longitude'])
 
     for row in src_csv:
+
+        prov_id = int(row[2])
+        if prov_id in territories:
+            idx = prov_id - 60
+            lat, lon = territory_capital[idx]
+            dst_csv.writerow(row[0:4] + [lat, lon])
+            continue
 
         coord_x = row[4]
         coord_y = row[5]
