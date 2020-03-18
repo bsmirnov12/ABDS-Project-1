@@ -14,6 +14,10 @@ dst_fname = 'provinces.csv'
 province_ids = []
 province_db = { 0: { 'name': "", 'max_lat': 0.0, 'min_lat': 0.0, 'max_lon': 0.0, 'min_lon': 0.0 } }
 
+# fix centers of the territories
+territories = [60, 61, 62] # Yukon, NWT, Nunavut
+territory_center = [(63.6025218,-135.9292136), (63.608103, -118.799387), (64.31758800, -96.02247400)]
+
 # read source file with coordinates
 src_file = open(src_fname, 'r', newline='', encoding='utf-8')
 src_csv = csv.reader(src_file, delimiter=',')
@@ -45,10 +49,6 @@ for row in src_csv:
             province_db[prov_id]['max_lon'] = lon
         elif lon < province_db[prov_id]['min_lon']:
             province_db[prov_id]['min_lon'] = lon
-
-# fix centers of the territiries
-territories = [60, 61, 62] # Yukon, NWT, Nunavut
-territory_center = [(63.6025218,-135.9292136), (63.608103, -118.799387), (61.065160, -97.484367)]
 
 # write output file
 with open(dst_fname, 'w', newline='', encoding='utf-8') as dst_file:

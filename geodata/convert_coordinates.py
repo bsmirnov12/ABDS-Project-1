@@ -27,7 +27,7 @@ src_file = open(src_fname, 'r', newline='', encoding='utf-8')
 src_csv = csv.reader(src_file, delimiter=',')
 
 territories = [60, 61, 62] # Yukon, NWT, Nunavut
-territory_capital = [(60.7428612, -135.1366892), (62.4539497, -114.3743066), (63.7475018, -68.5106334)]
+territory_capital = [(60.7428612, -135.1366892), (62.4539497, -114.3743066), (61.06516000, -97.48436700)]
 
 with open(dst_fname, 'w', newline='', encoding='utf-8') as dst_file:
     dst_csv = csv.writer(dst_file, delimiter=',')
